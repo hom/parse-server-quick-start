@@ -1,0 +1,8 @@
+{
+  "appId": "MYAPPID",
+  "masterKey": "MYMASTERKEY",
+  "restAPIKey": "MYRESTAPIKEY",
+  "databaseURI": "mongodb://localhost:27017/example",
+  "port": 13523,
+  "serverURL": "http://localhost:13523"
+}
